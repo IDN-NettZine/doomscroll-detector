@@ -1,6 +1,6 @@
 # Doomscroll Detector💀
 
-**Tools anti-malas berbasis AI yang bakal muterin video mimi peri di sebelah mukamu kalau ketahuan Doomscrolling, Nunduk, atau ketiduran cuy.**
+**Sebuah Program yang akan mendeteksi kefokusan seseorang yang bisa dilihat dalam sebuah kamera**
 
 ---
 
